@@ -12,5 +12,7 @@ A curated list of awesome RAG.
 - [LightRAG](https://github.com/SylphAI-Inc/LightRAG) - The PyTorch Library for LLM Applications.
 - [llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 - [mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [quivr](https://github.com/QuivrHQ/quivr) - Your Second Brain, Empowered by Generative AI
+- [ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [ragflow](https://github.com/infiniflow/ragflow) - an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [R2R](https://github.com/SciPhi-AI/R2R) - SOTA RAG engine with automatic knowledge graph construction 
