@@ -16,5 +16,6 @@ A curated list of awesome RAG.
 - [quivr](https://github.com/QuivrHQ/quivr) - Your Second Brain, Empowered by Generative AI
 - [ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [ragflow](https://github.com/infiniflow/ragflow) - an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [R2R](https://github.com/SciPhi-AI/R2R) - SOTA RAG engine with automatic knowledge graph construction
 - [WrenAI](https://github.com/Canner/WrenAI) - Wren AI makes your database RAG-ready. Implement Text-to-SQL more accurately and securely.
