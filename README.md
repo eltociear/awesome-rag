@@ -9,6 +9,7 @@ A curated list of awesome RAG.
 - [dRAGon](https://github.com/dRAGon-Okinawa/dRAGon) - Dynamic Retrieval Augmented Generation for Optimized Nimble
 - [erag](https://github.com/EdwardDali/erag) -  RAG tool with lexical, semantic, text and knowledge graph searches as well with conversation context
 - [graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
+- [langflow](https://github.com/langflow-ai/langflow) - a visual framework for building multi-agent and RAG applications.
 - [LightRAG](https://github.com/SylphAI-Inc/LightRAG) - The PyTorch Library for LLM Applications.
 - [llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 - [mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
