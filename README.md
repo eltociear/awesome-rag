@@ -18,4 +18,5 @@ A curated list of awesome RAG.
 - [ragflow](https://github.com/infiniflow/ragflow) - an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [R2R](https://github.com/SciPhi-AI/R2R) - SOTA RAG engine with automatic knowledge graph construction
+- [trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building search, recommendations, and RAG.
 - [WrenAI](https://github.com/Canner/WrenAI) - Wren AI makes your database RAG-ready. Implement Text-to-SQL more accurately and securely.
