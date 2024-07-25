@@ -6,6 +6,7 @@ A curated list of awesome RAG.
 
 - [AIDocumentLibraryChat](https://github.com/Angular2Guy/AIDocumentLibraryChat) - A project to show howto use SpringAI with OpenAI to chat with the documents in a library
 - [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [Contract-Advisor-RAG](https://github.com/Yohanes213/Contract-Advisor-RAG) - The objective is to build, evaluate, and improve a Retrieval-Augmented Generation (RAG) system for Contract Q&A, simulating interaction with a contract by asking questions and getting precise answers.
 - [dRAGon](https://github.com/dRAGon-Okinawa/dRAGon) - Dynamic Retrieval Augmented Generation for Optimized Nimble
 - [erag](https://github.com/EdwardDali/erag) -  RAG tool with lexical, semantic, text and knowledge graph searches as well with conversation context
 - [graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
