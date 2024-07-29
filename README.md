@@ -19,6 +19,7 @@ A curated list of awesome RAG.
 - [ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [RAGatouille](https://github.com/bclavie/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline.
 - [ragflow](https://github.com/infiniflow/ragflow) - an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [RAGMeUp](https://github.com/AI-Commandos/RAGMeUp) - Generic rag framework to apply the power of LLMs on any given dataset
 - [rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [R2R](https://github.com/SciPhi-AI/R2R) - SOTA RAG engine with automatic knowledge graph construction
 - [trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building search, recommendations, and RAG.
