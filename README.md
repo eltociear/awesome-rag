@@ -20,6 +20,7 @@ A curated list of awesome RAG.
 - [RAGatouille](https://github.com/bclavie/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline.
 - [ragbuilder](https://github.com/kruxai/ragbuilder) - A toolkit to create optimal Production-ready RAG setup for your data
 - [RAGChecker](https://github.com/amazon-science/RAGChecker) - A Fine-grained Framework For Diagnosing RAG
+- [RAGENT](https://github.com/Wannabeasmartguy/RAGENT) - Probably one of the lightest native RAG + Agent apps out there，experience the power of Agent-powered models and Agent-driven knowledge bases in one click, without complex configuration.
 - [ragflow](https://github.com/infiniflow/ragflow) - an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [RAGFoundry](https://github.com/IntelLabs/RAGFoundry) - Framework for enhancing LLMs for RAG tasks using fine-tuning.
 - [RAGLAB](https://github.com/fate-ubw/RAGLAB) - A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation
